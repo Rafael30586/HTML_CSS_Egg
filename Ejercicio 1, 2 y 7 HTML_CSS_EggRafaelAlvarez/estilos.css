@@ -1,0 +1,21 @@
+body{
+	background-color: rgb(1, 173, 4);
+}
+
+h1{
+	font-family: sans-serif;
+	color: rgb(232, 232, 232);
+	text-align: center;
+}
+
+h2{
+	font-family: fantasy;
+	color: rgb(232, 232, 232);
+	text-align: center;
+}
+
+p{
+	font-family: cursive;
+	color: rgb(247, 255, 118);
+	text-align: left;
+}
