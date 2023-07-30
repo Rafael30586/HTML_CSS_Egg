@@ -1,0 +1,52 @@
+#titulo{
+	color: rgb(79, 140, 172);
+}
+
+p strong{
+	color: rgb(243, 4, 0);
+}
+
+p .destacado{
+	color: rgb(252, 173, 84);
+}
+
+#subtitulo{
+	color: rgb(0, 19, 246);
+}
+
+body p a{
+	color: rgb(231, 38, 26);
+}
+
+body p em{
+	color: rgb(26, 63, 231);
+}
+
+p .especial{
+	color: rgb(131, 77, 219);
+}
+
+.especial{
+	color: rgb(254,212,39);
+}
+
+th {
+	color: rgb(255, 45, 15);
+}
+
+td{
+	color: rgb(88, 255, 15);
+}
+
+td strong{
+	color: rgb(254,212,39);
+}
+
+#adicional p #especial{
+	color: rgb(254, 39, 245);
+}
+
+#adicional p a{
+	color: rgb(0, 198, 189);
+}
+
